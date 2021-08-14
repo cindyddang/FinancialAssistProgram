@@ -9,7 +9,7 @@ This program aims to help people within one household, who always hang out toget
 ## Functions
 
 1. Keep track on basic information of spendings from the households, including how much money was spent, who were responsible for the spending,...
-* Adding, deleting, Editing information
+* Adding, deleting, editing information
 * Monthly reports, yearly reports available
 2. Calculating the amount of money one specific person is reponsible for 
 * Display detail of the money
